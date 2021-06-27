@@ -7,14 +7,14 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Webpage',
+  name: 'Zehui Li',
   domain: 'https://www.notion.so/Webpage-a1c8d15739334906b049fbd87aaaef2b',
-  author: 'me',
+  author: 'Zehui Li',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  ////description: 'Example site description',
+  ////socialImageTitle: 'Transitive Bullshit',
+  ////socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   twitter: 'li62151875',
